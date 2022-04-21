@@ -1,3 +1,4 @@
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=eblisyalme&label=Profile%20views&color=0e75b6&style=flat"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=eblisyalme&show_icons=true&theme=dark&title_color=ff0000&text_color=ff0000&locale=en" alt="eblisyalme" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -12,6 +13,9 @@
  <a href="https://discord.gg/https://discord.gg/fA9BQBKddf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/fA9BQBKddf" height="30" width="40" /></a>
 <a href="https://instagram.com/eblis_yalme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eblis_yalme" height="30" width="40" /></a>
 </p>
+
+
+
 
 
 
