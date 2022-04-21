@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eblisyalme&show_icons=true&locale=en" alt="eblisyalme" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=eblisyalme&show_icons=true&theme=dark&title_color=ff0000&text_color=ff0000&locale=en" alt="eblisyalme" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
